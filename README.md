@@ -5,7 +5,7 @@
 # Blissey
 
 About
-Blissey is a Mental Health Chatbot , built with python , it can store and process json data
+Blissey is a Mental Health Chatbot , built with python , it can store and process json data </div>
 ## Tech Stack
 
 Python , Tkinter , Torch
@@ -23,4 +23,4 @@ Python , Tkinter , Torch
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-</div>
+ 
